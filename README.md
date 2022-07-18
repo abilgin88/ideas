@@ -2,3 +2,4 @@ This repository is a collection of ideas for articles, content and features at r
 
 Feel free to add ideas and mark taken ideas as "done".
 
+“Contact: support@razeware.com”.
