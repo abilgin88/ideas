@@ -2,7 +2,7 @@
 
 These articles shouldn't really have any content, but need titles that are irresistible.
 
-- [ ] Top 10 iOS interview questions
+- [x] Top 10 iOS interview questions
 - [ ] 8 hottest rumours about Swift 5 - EXPOSED
 - [ ] Try these five weird Xcode tips to reduce app bloat
 - [ ] Apple to skip iOS 13, eyes a piece of Android's pie
